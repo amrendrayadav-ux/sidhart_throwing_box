@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output files
+*.mp4
+*.avi
+*.mkv
+*.json
+*.jsonl
+*.txt
+*.csv
+!requirements.txt
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Environments & IDEs
+.env
+.venv
+env/
+venv/
+.idea/
+.vscode/
