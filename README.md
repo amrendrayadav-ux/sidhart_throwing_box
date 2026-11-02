@@ -19,3 +19,4 @@ When running the pipeline, logs are emitted only when the count increases:
 ```bash
 python main.py
 ```
+
